@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "86f40fb0b1420e49f95ba979",
+  "owner": "ssxywc54xcv",
+  "repo": "ssxywc54xcv.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "6ded2282543b915de9c181dc",
+      "a": "SaySS",
+      "b": "官方发布页",
+      "entity": "SaySS",
+      "brand": "SaySS",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1ccceee906c150024c1860348395665726769e3b1ca2a97f7b77e8f6c0121189",
+      "content": {
+        "primary_entity": "SaySS",
+        "keyword1": "SaySS",
+        "keyword2": "官方发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，帮访客按需挑选客户端与流量方案。基础版适合轻度上网，旗舰版兼顾流媒体与游戏加速，团队版面向多设备协作，按年付更划算。",
+          "AI_HERO_SUBTITLE": "多设备订阅方案轻松选",
+          "AI_HERO_INTRO": "SaySS 面向需要海外加速的用户提供多档订阅，覆盖从轻度浏览到团队协作的流量与设备需求。选择套餐后，按所用设备安装对应客户端，导入订阅即可使用。",
+          "AI_VISUAL_TITLE": "SaySS 订阅与设备指南",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖多设备",
+          "AI_HIGHLIGHT_2": "年付方案更省费用",
+          "AI_HIGHLIGHT_3": "按客户端导入订阅",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "选套餐先看设备数量与月流量，再决定按年付还是按月付，能更贴合日常使用。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台，旗舰版 5 台，团队版 20 台同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB、1000GB 三档，按观看与下载习惯挑选。",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，折合月费更低。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "不同系统安装不同客户端，导入订阅后即可连接，建议按当前设备逐个配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别 ¥150、¥350、¥850，按设备与流量需求选择即可。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选服务到配置订阅，按顺序操作即可完成。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用系统与客户端版本，检查设备是否满足同时在线数量。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅地址，保存后连接节点开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号可以同时在几台设备登录？",
+          "AI_FAQ_ANSWER_1": "基础版允许 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出数量时，可在客户端退出其他设备后再连接。",
+          "AI_FAQ_QUESTION_2": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_2": "两个周期内容一致，年付价格更低。基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，适合长期使用。",
+          "AI_FAQ_QUESTION_3": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_3": "每月流量按套餐额度提供，基础版 100GB、旗舰版 300GB、团队版 1000GB。当月用尽后，可升级套餐或等待下月重置。",
+          "AI_FAQ_QUESTION_4": "订阅如何在客户端导入？",
+          "AI_FAQ_ANSWER_4": "在所选客户端中找到订阅或配置导入入口，粘贴订阅地址并保存，然后选择节点连接。不同客户端步骤略有差异，可参照对应文档。",
+          "AI_FAQ_QUESTION_5": "可以在哪些系统上使用？",
+          "AI_FAQ_ANSWER_5": "常见桌面与移动系统均有对应客户端，按所用设备安装适配版本即可。使用前建议核对系统版本是否满足客户端要求。",
+          "AI_CLOSING_TITLE": "选好套餐即刻连接",
+          "AI_CLOSING_TEXT": "按设备与流量选定方案，导入订阅即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "10d8d411fef27281ed13b265f61bf7375eab462d7114cea28dbc3b8aa1f6f05f",
+    "sitemap.xml": "5b2138361da3eff90863dc131f883befd7ac87b5ca27c7d92274b92abeb28719",
+    "robots.txt": "f85d05bd8976406ce6c7af926f18c033b42b0a956855099aadde13dda1a5472d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "0087dc75d528e0a810a0a8e54820db40cd68443f439fc1ab1f170c86e15b4244"
+}
